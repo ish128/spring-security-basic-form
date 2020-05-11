@@ -1,4 +1,4 @@
-package com.example.security.springsecurity.controller;
+package com.example.security.springsecurity.account;
 
 import com.example.security.springsecurity.account.Account;
 import com.example.security.springsecurity.account.AccountService;

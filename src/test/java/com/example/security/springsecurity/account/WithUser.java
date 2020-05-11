@@ -1,4 +1,4 @@
-package com.example.security.springsecurity.controller;
+package com.example.security.springsecurity.account;
 
 import org.springframework.security.test.context.support.WithMockUser;
 
